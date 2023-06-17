@@ -1,4 +1,4 @@
-# ProjetMachineLearningFinAnn-e
+# Skin Cancer Detection
 Mathieu Laversin
 
 EPF 5e année en école d'ingénieur(e)s. Montpellier.
